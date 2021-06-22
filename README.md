@@ -1,27 +1,22 @@
-### Hi there, I'm Jatin - aka [TechARTH] 👋
+### Hi there, I'm Jatin - aka [TECHARTH] 👋
 
-This is the place where I opensource stuff and break things 🤣
+This is the place where I opensource stuff and break things 🔥
 
-🔭 I’m currently working on someting sensational things 😂🤣
-🌱 I’m currently learning various technology
-👯 I’m looking to collaborate with other content creators
-💬 Ask me about ML/AI/Python/BigData/Cloud & any tech related stuff.
-📫 How to reach me: https://www.linkedin.com/in/jatin-lodhi/
-😄 Pronouns: He/ His
-⚡ Fun fact: I ❤ playing cricket and research on new technology.
-🔥 2021 Goal: Contribute more to Open Source projects & move towards Startup.
+- 🔭 I’m currently working on someting cool & automation things 😂🤣
+- 🌱 🌱 I’m currently learning various technology
+- 👯 I’m looking to collaborate with other content creators
+- 🔥 2021 Goal: Contribute more to Open Source projects & move towards Startup🤩 .
+- 😄 Pronouns: He/ His 
+- ⚡ ⚡ Fun fact: I ❤ playing cricket and research on new technology.
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.youtube.com/channel/UCGyzCgx1WWX_0nRtYQEBiyQ" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://twitter.com/JatinSinghLodhi" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src=" https://www.linkedin.com/in/jatin-lodhi/" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/jatin_m_2002/" />][instagram]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -45,27 +40,39 @@ This is the place where I opensource stuff and break things 🤣
 <br />
 <br />
 
----
-
-
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 
+
 <!-- BLOG-POST-LIST:END -->
 
-➡️ 
+
 
 ---
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+
+</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JatinLodhi&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=JatinLodhi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </details>
 
 
+[twitter]: https://twitter.com/JatinSinghLodhi
+[youtube]: https://www.youtube.com/channel/UCGyzCgx1WWX_0nRtYQEBiyQ
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/jatin-lodhi/
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
