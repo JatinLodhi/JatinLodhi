@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I ❤ playing cricket and research on new technology. 
 - 🔥 2021 Goal: Contribute more to Open Source projects & move towards Startup.
 
-<img src= " https://github-readme-stats.vercel.app/api?username=JatinLodhi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+<img src="https://github-readme-stats.vercel.app/api?username=JatinLodhi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
