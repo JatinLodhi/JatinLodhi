@@ -63,7 +63,7 @@ This is the place where I opensource stuff and break things 🔥
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jatin Lodhi GitHub Stats" src="https://github-readme-stats.JatiLodhi.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Jatin Lodhi GitHub Stats" src="https://github-readme-stats.JatiLodhi.vercel.app/api?username=JatinLodhi&show_icons=true&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=JatinLodhi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </details>
 
