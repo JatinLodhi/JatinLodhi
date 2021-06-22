@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/jatin-lodhi/ 
 - 😄 Pronouns: Just-In & Jessy 😂🤣
 - ⚡ Fun fact: I ❤ playing cricket and research on new technology. 
--->🔥 2021 Goal: Contribute more to Open Source projects & move towards Startup.
+- 🔥 2021 Goal: Contribute more to Open Source projects & move towards Startup.
