@@ -4,7 +4,7 @@ This is the place where I opensource stuff and break things 🤣
 **JatinLodhi/JatinLodhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+!-->
 - 🔭 I’m currently working on someting sensational things 😂🤣
 - 🌱 I’m currently learning various technology
 - 👯 I’m looking to collaborate with other content creators
