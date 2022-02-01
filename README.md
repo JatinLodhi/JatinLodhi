@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things 🔥
 - 🔭 I’m currently working on someting cool & automation things 😂🤣
 - 🌱 🌱 I’m currently learning various technology
 - 👯 I’m looking to collaborate with other content creators
-- 🔥 2021 Goal: Contribute more to Open Source projects & move towards Startup🤩 .
+- 🔥 2022 Goal: Contribute more to Open Source projects & move towards Startup🤩 .
 - 😄 Pronouns: He/ His 
 - ⚡ ⚡ Fun fact: I ❤ playing cricket and research on new technology.
 
